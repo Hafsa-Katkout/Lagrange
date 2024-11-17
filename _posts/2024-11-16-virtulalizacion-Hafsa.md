@@ -2,6 +2,8 @@
 layout: post
 title: Virtualizacion
 author: "Hafsa Katkout Aabil"
+categories: journal
+tags: [documentation,sample]
 image: Virtualization.jpg
 ---
 # Virtualización: Potenciando a las Empresas Modernas
