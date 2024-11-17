@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["katkouthafsa5@gmail.com"]
 
   spec.summary       = "sitio de Hafsa con Jektll"
-  spec.homepage      = "https://github.com/Hafsa-Katkout/Lagrange.git"
+  spec.homepage      = "https://github.com/Hafsa-Katkout"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|CHANGELOG)!i) }

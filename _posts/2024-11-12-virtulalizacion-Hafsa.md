@@ -2,7 +2,7 @@
 layout: post
 title: Virtualizacion
 author: "Hafsa Katkout Aabil"
-image: Hafsa.jpg
+image: Virtualization.jpg
 ---
 # Virtualización: Potenciando a las Empresas Modernas
 
